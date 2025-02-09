@@ -71,6 +71,11 @@
 - Tested in real-world environments, capturing moving vehicles
 - Depth output color-coded dynamically (red = close, blue = far)
 - **Attempted 5x5 window implementation but exceeded LUT limits (103–150%)**
+  
+- ![오토바이](https://github.com/user-attachments/assets/33c19e99-194c-45e0-bc8b-1639dccac828)
+
+- ![차](https://github.com/user-attachments/assets/7b55d98e-d114-4138-8127-99118f157e87)
+
 
 ## 🌍 Potential Applications
 - Widely used in **automotive, industrial automation, agriculture, and medical fields**
